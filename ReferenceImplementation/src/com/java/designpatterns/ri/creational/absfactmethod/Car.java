@@ -1,7 +1,7 @@
 package com.java.designpatterns.ri.creational.absfactmethod;
 
 /**
- * Car Interface.
+ * Car Interface
  * 
  * @author Got
  * @version 1.0
