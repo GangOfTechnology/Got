@@ -1,7 +1,7 @@
 package com.cts.tms.ri.creational.absfactmethod;
 
 /**
- * Car Interface.
+ * Bike Interface.
  * 
  * @author 274664 (Ravikumar J), 323596 (Sankar S)
  * @version 1.0
